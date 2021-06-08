@@ -6,5 +6,5 @@ end
 dotfile '.asdfrc'
 
 # For Ruby
-package 'libreadline-dev'
-package 'zlib1g-dev'
+# package 'libreadline-dev'
+# package 'zlib1g-dev'
